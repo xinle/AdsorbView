@@ -72,7 +72,6 @@ public class AdsorbView extends FrameLayout {
     Rect rect = new Rect();
 
     int downX,downY;
-    boolean isMoved = false;
     int lastX ,lastY;
 
     @Override
