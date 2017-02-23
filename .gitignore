@@ -12,3 +12,6 @@ bin/
 *.prefs
 gradle/
 .idea/
+.DS_Store
+build/
+captures/
