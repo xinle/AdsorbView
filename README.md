@@ -1,21 +1,18 @@
 # IOSActionSheet
 
 [![License](https://img.shields.io/badge/license-Apache%202-green.svg)](https://www.apache.org/licenses/LICENSE-2.0)
-[![Download](https://api.bintray.com/packages/xinle/maven/IOSActionSheet/images/download.svg) ](https://bintray.com/xinle/maven/IOSActionSheet/_latestVersion)
 
-Android 仿IOS ActionSheet UI样式 ,通过纯代码实现 ,不用导入额外的图片 ,可定制化能力强
+Android 靠边停靠控件 ,可以随意传入希望停靠的View和范围
 
 ## Screenshot
 
-![](https://github.com/xinle/IOSActionSheet/blob/master/screenshot/Screenshot_1483025140.jpg)
-
-![](https://github.com/xinle/IOSActionSheet/blob/master/screenshot/Screenshot_1483025334.jpg)
+![](https://github.com/xinle/AdsorbView/blob/master/Screenshot/screen.gif)
 
 ## 使用
 - 方式 1
 
 ```java
-compile 'com.lelive:IOSActionSheet:#lastVersion#'
+
 ```
 
 - 方式 2. 拷贝Libs工程里面的AdsorbView到自己的工程里面
