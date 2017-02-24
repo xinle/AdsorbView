@@ -12,7 +12,7 @@ Android 靠边停靠控件 ,可以随意传入希望停靠的View和范围
 - 方式 1
 
 ```java
-
+compile 'com.lelive:AdsorbView:1.0'
 ```
 
 - 方式 2. 拷贝Libs工程里面的AdsorbView到自己的工程里面
